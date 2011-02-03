@@ -1,0 +1,14 @@
+{
+  "rabbithole": {
+    "amqp": {
+      "connection": {
+        "login": "guest",
+        "password": "guest",
+        "host": "127.0.0.1"
+      },
+      "out": {
+        "exchange": "rabbithole"
+      }
+    }
+  }
+}
